@@ -1,0 +1,9 @@
+
+---
+
+### requirements.txt
+
+```plaintext
+pandas
+sqlalchemy
+pyodbc
