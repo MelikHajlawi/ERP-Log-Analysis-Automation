@@ -12,14 +12,4 @@ This project was developed during an internship at Poulina Group Holding with th
 - `data_insertion.py`: Inserts logs into SQL Server with chunked processing.
 - `main.py`: Main script coordinating the end-to-end process, from parsing to database insertion.
 
-## Installation
-1. Clone the repository.
-2. Install required Python packages:
-    ```bash
-    pip install -r requirements.txt
-    ```
 
-## Usage
-Run the main script to process logs and insert them into the SQL Server database:
-```bash
-python main.py
